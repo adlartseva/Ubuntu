@@ -1,0 +1,15 @@
+###############################
+##########Soft################
+########kosha 2.1 ver.#########
+################################
+
+sudo add-apt-repository ppa:pinta-maintainers/pinta-stable
+sudo apt-get update
+sudo apt-get install pinta
+
+cd /tmp
+wget http://media.steampowered.com/client/installer/steam.deb
+sudo dpkg -i steam.deb
+sudo apt-get install -f   #если будут проблемы
+
+
