@@ -68,3 +68,5 @@ sudo apt update
 sudo apt install caffeine
 
 sudo apt-get install synaptic
+
+sudo apt-get install preload
