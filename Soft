@@ -90,3 +90,12 @@ sudo apt-get update
 sudo apt-get install lives
 
 sudo apt install nmon
+
+##Android
+
+sudo apt-get install android-tools-adb
+sudo apt-get install qt4-qmake libqt4-dev libqtcore4 libqtgui4
+git clone https://github.com/yangh/sevensquare.git
+cd sevensquare
+make
+sudo make install
