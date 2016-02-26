@@ -7,9 +7,40 @@ sudo add-apt-repository ppa:pinta-maintainers/pinta-stable
 sudo apt-get update
 sudo apt-get install pinta
 
-cd /tmp
-wget http://media.steampowered.com/client/installer/steam.deb
-sudo dpkg -i steam.deb
 sudo apt-get install -f   #если будут проблемы
+
+sudo add-apt-repository ppa:numix/ppa
+sudo apt update
+sudo apt install numix-gtk-theme numix-icon-theme
+sudo apt install numix-icon-theme-circle
+
+sudo apt install steam
+
+# патченный wine
+sudo add-apt-repository ppa:pipelight/stable
+sudo apt-get update
+sudo apt-get install --install-recommends wine-staging-compat winetricks
+
+download and setup: 2gis popcorn-time (msi), dropbox mailrucloud megasync teamwiewer slinjet (deb)
+
+sudo add-apt-repository ppa:peterlevi/ppa
+sudo apt-get update
+sudo apt-get install variety
+
+sudo apt install playonlinux cherrytree galculator leafpad qbittorrent skype vlc cheese guvcview gparted htop
+
+sudo add-apt-repository ppa:starws-box/deadbeef-player
+sudo apt-get update
+sudo apt-get install deadbeef
+
+sudo add-apt-repository ppa:maarten-baert/simplescreenrecorder
+sudo apt-get update
+sudo apt-get install simplescreenrecorder
+
+sudo add-apt-repository ppa:nemh/systemback
+sudo apt-get update
+sudo apt-get install systemback
+
+
 
 
