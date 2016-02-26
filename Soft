@@ -60,3 +60,9 @@ sudo apt-get install uget
 sudo add-apt-repository ppa:plushuang-tw/uget-stable
 sudo apt-get update
 sudo apt-get install uget
+
+sudo apt install kruseder youtube-dll
+
+sudo add-apt-repository ppa:caffeine-developers/ppa
+sudo apt update 
+sudo apt install caffeine
