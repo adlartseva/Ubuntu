@@ -66,3 +66,5 @@ sudo apt install kruseder youtube-dll
 sudo add-apt-repository ppa:caffeine-developers/ppa
 sudo apt update 
 sudo apt install caffeine
+
+sudo apt-get install synaptic
