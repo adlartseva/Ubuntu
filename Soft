@@ -88,3 +88,5 @@ sudo apt-get install shotcut
 sudo add-apt-repository ppa:ubuntuhandbook1/lives
 sudo apt-get update
 sudo apt-get install lives
+
+sudo apt install nmon
