@@ -52,3 +52,7 @@ sudo apt-get install virtualbox-5.0
 sudo add-apt-repository ppa:openshot.developers/ppa
 sudo apt-get update
 sudo apt-get install openshot
+
+sudo add-apt-repository ppa:plushuang-tw/uget-stable
+sudo apt-get update
+sudo apt-get install uget
