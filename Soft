@@ -72,3 +72,7 @@ sudo apt-get install synaptic
 sudo apt-get install preload
 
 sudo apt-get install p7zip-rar p7zip-full unace unrar zip unzip sharutils rar uudeview mpack arj cabextract file-roller
+
+sudo apt-get purge zeitgeist zeitgeist-core zeitgeist-datahub
+sudo apt-get purge gnome-orca
+sudo apt-get purge telepathy-*
