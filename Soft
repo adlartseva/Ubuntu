@@ -129,3 +129,7 @@ sudo apt-get install geary
 sudo add-apt-repository ppa:noobslab/themes
 sudo apt-get update
 sudo apt-get install stylishdark-theme
+
+sudo add-apt-repository ppa:appgrid/stable
+sudo apt-get update
+sudo apt-get install appgrid
