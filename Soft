@@ -145,3 +145,7 @@ sudo apt-get install audacity
 sudo add-apt-repository ppa:shutter/ppa
 sudo apt-get update
 sudo apt-get install shutter
+
+sudo add-apt-repository ppa:mozillateam/firefox-next
+sudo apt update
+sudo apt upgrade
