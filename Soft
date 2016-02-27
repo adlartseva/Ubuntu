@@ -121,3 +121,7 @@ sudo apt-get install winusb
 #Откл. сообщения об ошибках
 
 sudo sed -i "s/enabled=1/enabled=0/g" '/etc/default/apport'
+
+sudo add-apt-repository ppa:yorba/ppa
+sudo apt-get update
+sudo apt-get install geary
