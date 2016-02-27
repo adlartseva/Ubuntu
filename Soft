@@ -114,3 +114,4 @@ sudo apt-get update
 sudo apt-get install vibrancy-colors 
 
 sudo apt install gthumb clipit avidemux ambiance-flat-colors radiance-flat-colors 
+sudo apt install p7zipfull
