@@ -1,0 +1,14 @@
+
+
+sudo apt-get install preload
+
+sudo apt install prelink
+prelink --all
+sudo leafpad /etc/default/prelink
+PRELINKING=unknown
+на
+PRELINKING=yes
+
+cat /proc/sys/vm/swappiness
+sudo leafpad /etc/sysctl.conf
+vm.swappiness=10  #в конец файла
