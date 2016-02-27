@@ -117,3 +117,8 @@ sudo apt install gthumb clipit avidemux ambiance-flat-colors radiance-flat-color
 sudo apt install p7zipfull
 
 sudo apt install prelink
+prelink --all
+sudo leafpad /etc/default/prelink
+PRELINKING=unknown
+на
+PRELINKING=yes
