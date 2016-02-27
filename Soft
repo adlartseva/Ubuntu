@@ -108,3 +108,9 @@ sudo apt-get update
 sudo apt-get install keepassx
 
 sudo apt-get install lxtask
+
+sudo add-apt-repository ppa:ravefinity-project/ppa
+sudo apt-get update 
+sudo apt-get install vibrancy-colors 
+
+sudo apt install gthumb clipit avidemux ambiance-flat-colors radiance-flat-colors 
