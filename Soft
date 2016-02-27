@@ -57,10 +57,6 @@ sudo add-apt-repository ppa:plushuang-tw/uget-stable
 sudo apt-get update
 sudo apt-get install uget
 
-sudo add-apt-repository ppa:plushuang-tw/uget-stable
-sudo apt-get update
-sudo apt-get install uget
-
 sudo apt install kruseder youtube-dll
 
 sudo add-apt-repository ppa:caffeine-developers/ppa
@@ -68,8 +64,6 @@ sudo apt update
 sudo apt install caffeine
 
 sudo apt-get install synaptic
-
-sudo apt-get install preload
 
 sudo apt-get install p7zip-rar p7zip-full unace unrar zip unzip sharutils rar uudeview mpack arj cabextract file-roller
 
@@ -115,10 +109,3 @@ sudo apt-get install vibrancy-colors
 
 sudo apt install gthumb clipit avidemux ambiance-flat-colors radiance-flat-colors 
 sudo apt install p7zipfull
-
-sudo apt install prelink
-prelink --all
-sudo leafpad /etc/default/prelink
-PRELINKING=unknown
-на
-PRELINKING=yes
