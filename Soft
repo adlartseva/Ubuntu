@@ -113,3 +113,7 @@ sudo apt install p7zipfull
 sudo apt install bum
 
 sudo apt install compizconfig-settings-manager
+
+sudo add-apt-repository ppa:colingille/freshlight
+sudo apt-get update
+sudo apt-get install winusb
