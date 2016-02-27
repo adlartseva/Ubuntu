@@ -133,3 +133,7 @@ sudo apt-get install stylishdark-theme
 sudo add-apt-repository ppa:appgrid/stable
 sudo apt-get update
 sudo apt-get install appgrid
+
+sudo add-apt-repository ppa:me-davidsansome/clementine 
+sudo apt-get update 
+sudo apt-get install clementine
