@@ -76,6 +76,7 @@ sudo apt-get install p7zip-rar p7zip-full unace unrar zip unzip sharutils rar uu
 sudo apt-get purge zeitgeist zeitgeist-core zeitgeist-datahub
 sudo apt-get purge gnome-orca
 sudo apt-get purge telepathy-*
+sudo apt-get purge gnumeric abiword xchat parole
 
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt-get update
