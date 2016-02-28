@@ -143,3 +143,7 @@ sudo apt-get install shutter
 sudo add-apt-repository ppa:gottcode/gcppa
 sudo apt-get update
 sudo apt-get install xfce4-whiskermenu-plugin 
+
+sudo add-apt-repository ppa:keks9n/skypetab
+sudo apt update
+sudo apt install skypetab-ng
