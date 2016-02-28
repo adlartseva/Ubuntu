@@ -59,10 +59,6 @@ sudo apt-get install uget
 
 sudo apt install kruseder youtube-dll
 
-sudo add-apt-repository ppa:nilarimogard/webupd8
-sudo apt-get update
-sudo apt-get install caffeine-plus
-
 sudo apt-get install synaptic
 
 sudo apt-get install p7zip-rar p7zip-full unace unrar zip unzip sharutils rar uudeview mpack arj cabextract file-roller
@@ -111,8 +107,6 @@ sudo apt install gthumb clipit avidemux ambiance-flat-colors radiance-flat-color
 sudo apt install p7zipfull
 
 sudo apt install bum
-
-sudo apt install compizconfig-settings-manager
 
 sudo add-apt-repository ppa:colingille/freshlight
 sudo apt-get update
