@@ -151,3 +151,5 @@ sudo apt install skypetab-ng
 sudo add-apt-repository ppa:webupd8team/experiments
 sudo apt update
 sudo apt install thunar
+
+sudo apt install xfce4-goodies
