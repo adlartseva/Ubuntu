@@ -154,4 +154,5 @@ sudo apt install thunar
 
 sudo apt install xfce4-goodies
 
-sudo apt install python-pip speedtest-cli
+sudo apt install python-pip
+sudo pip install speedtest-cli
