@@ -158,3 +158,6 @@ sudo apt install python-pip
 sudo pip install speedtest-cli
 
 sudo apt install samba gvfs-backends и system-config-samba
+
+gconftool-2 --set --type string /desktop/gnome/interface/gtk_theme numix
+gconftool-2 --set --type string /desktop/gnome/interface/icon_theme vibrancy-nonmono-dark-pink
