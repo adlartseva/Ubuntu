@@ -139,3 +139,7 @@ sudo apt-get install audacity
 sudo add-apt-repository ppa:shutter/ppa
 sudo apt-get update
 sudo apt-get install shutter
+
+sudo add-apt-repository ppa:gottcode/gcppa
+sudo apt-get update
+sudo apt-get install xfce4-whiskermenu-plugin 
