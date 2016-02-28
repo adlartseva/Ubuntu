@@ -3,10 +3,6 @@
 ########kosha 2.1 ver.#########
 ################################
 
-sudo add-apt-repository ppa:pinta-maintainers/pinta-stable
-sudo apt-get update
-sudo apt-get install pinta
-
 sudo apt-get install -f   #если будут проблемы
 
 sudo add-apt-repository ppa:numix/ppa
@@ -68,14 +64,6 @@ sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt-get update
 sudo apt-get install sublime-text-installer
 
-sudo add-apt-repository ppa:haraldhv/shotcut
-sudo apt-get update
-sudo apt-get install shotcut
-
-sudo add-apt-repository ppa:ubuntuhandbook1/lives
-sudo apt-get update
-sudo apt-get install lives
-
 sudo apt install nmon
 
 ##Android
@@ -99,7 +87,7 @@ sudo add-apt-repository ppa:ravefinity-project/ppa
 sudo apt-get update 
 sudo apt-get install vibrancy-colors 
 
-sudo apt install gthumb clipit avidemux ambiance-flat-colors radiance-flat-colors 
+sudo apt install clipit avidemux ambiance-flat-colors radiance-flat-colors 
 sudo apt install p7zipfull
 
 sudo apt install bum
@@ -127,10 +115,6 @@ sudo apt-get install appgrid
 sudo add-apt-repository ppa:me-davidsansome/clementine 
 sudo apt-get update 
 sudo apt-get install clementine
-
-sudo add-apt-repository ppa:audacity-team/daily
-sudo apt-get update
-sudo apt-get install audacity
 
 sudo add-apt-repository ppa:shutter/ppa
 sudo apt-get update
