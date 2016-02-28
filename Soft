@@ -166,3 +166,5 @@ sudo add-apt-repository ppa:dockbar-main/ppa
 sudo apt-get update
 sudo apt-get install --no-install-recommends xfce4-dockbarx-plugin
 sudo apt-get install dockbarx-themes-extra
+
+sudo apt-get install xfe
