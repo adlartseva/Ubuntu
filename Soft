@@ -161,3 +161,8 @@ sudo apt install samba gvfs-backends и system-config-samba
 
 gconftool-2 --set --type string /desktop/gnome/interface/gtk_theme numix
 gconftool-2 --set --type string /desktop/gnome/interface/icon_theme vibrancy-nonmono-dark-pink
+
+sudo add-apt-repository ppa:dockbar-main/ppa
+sudo apt-get update
+sudo apt-get install --no-install-recommends xfce4-dockbarx-plugin
+sudo apt-get install dockbarx-themes-extra
