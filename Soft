@@ -45,10 +45,6 @@ wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key a
 sudo apt-get update
 sudo apt-get install virtualbox-5.0
 
-sudo add-apt-repository ppa:plushuang-tw/uget-stable
-sudo apt-get update
-sudo apt-get install uget
-
 sudo apt install kruseder youtube-dll
 
 sudo apt-get install synaptic
