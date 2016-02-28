@@ -156,3 +156,5 @@ sudo apt install xfce4-goodies
 
 sudo apt install python-pip
 sudo pip install speedtest-cli
+
+sudo apt install samba gvfs-backends и system-config-samba
