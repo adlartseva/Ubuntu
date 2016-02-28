@@ -29,6 +29,10 @@ sudo apt-get install variety
 
 sudo apt install playonlinux cherrytree galculator leafpad skype vlc cheese guvcview gparted htop
 
+sudo add-apt-repository ppa:vincent-c/cherrytree
+sudo apt update
+sudo apt install cherrytree
+
 sudo add-apt-repository ppa:starws-box/deadbeef-player
 sudo apt-get update
 sudo apt-get install deadbeef
