@@ -21,13 +21,13 @@ sudo add-apt-repository ppa:pipelight/stable
 sudo apt-get update
 sudo apt-get install --install-recommends wine-staging-compat winetricks
 
-download and setup: 2gis popcorn-time (msi), dropbox mailrucloud megasync teamwiewer slinjet (deb)
+download and setup: 2gis popcorn-time (msi), dropbox mailrucloud megasync teamwiewer slimjet (deb)
 
 sudo add-apt-repository ppa:peterlevi/ppa
 sudo apt-get update
 sudo apt-get install variety
 
-sudo apt install playonlinux cherrytree galculator leafpad qbittorrent skype vlc cheese guvcview gparted htop
+sudo apt install playonlinux cherrytree galculator leafpad skype vlc cheese guvcview gparted htop
 
 sudo add-apt-repository ppa:starws-box/deadbeef-player
 sudo apt-get update
@@ -48,10 +48,6 @@ sudo sh -c 'echo "deb http://download.virtualbox.org/virtualbox/debian precise c
 wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
 sudo apt-get update
 sudo apt-get install virtualbox-5.0
-
-sudo add-apt-repository ppa:openshot.developers/ppa
-sudo apt-get update
-sudo apt-get install openshot
 
 sudo add-apt-repository ppa:plushuang-tw/uget-stable
 sudo apt-get update
